@@ -1,5 +1,5 @@
-### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
-<p align="center">
+<div align=center>
+<p>
     <a href="https://telegram.me/Nanthakps">
         <kbd>
             <img width="180" src="https://graph.org/file/c2f574670f937de672ad0.jpg" alt="Nanthakps Logo">
@@ -7,12 +7,10 @@
     </a>
 </p>
 
-<p align="center">
-<div align=center>
-
 [![GitHub forks](https://img.shields.io/github/forks/Tamilupdates/String-Generator-Bot?style=social)](https://github.com/Tamilupdates/String-Generator-Bot/fork)
 [![GitHub followers](https://img.shields.io/github/followers/Tamilupdates?style=social&label=Followers)](https://github.com/Tamilupdates)
-
+</div>
+ 
 ----
 
 ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
