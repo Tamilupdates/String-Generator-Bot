@@ -33,12 +33,12 @@
       "required": true,
       "value": ""
     },
-    "MONGO_DB_URI": {
+    "DATABASE_URL": {
       "description": "Get this value from cloud.mongodb.com",
       "required": true,
       "value": ""
     },
-    "MUST_JOIN": {
+    "UPDATES_CHANNEL": {
       "description": "Username of a group or channel for which you want to set force sub.(without @)",
       "required": true,
       "value": "KPSBots"
