@@ -1,4 +1,4 @@
-from bot.db import db
+from Nanthakps.db import db
 
 usersdb = db.users
 
