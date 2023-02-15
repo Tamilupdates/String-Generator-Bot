@@ -1,7 +1,18 @@
 <p align="center">
-  <img src="https://graph.org/file/183c91fb709d5af2600c3.jpg" alt="String Generator Bot">
+    <a href="https://telegram.me/Nanthakps">
+        <kbd>
+            <img width="180" src="https://graph.org/file/c2f574670f937de672ad0.jpg" alt="Nanthakps Logo">
+        </kbd>
+    </a>
 </p>
 
+<p align="center">
+<div align=center>
+
+[![GitHub forks](https://img.shields.io/github/forks/Tamilupdates/weebzone?style=social)](https://github.com/Tamilupdates/weebzone/fork)
+[![GitHub followers](https://img.shields.io/github/followers/Tamilupdates?style=social&label=Followers)](https://github.com/Tamilupdates)
+
+----
 ### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
 [![Stars](https://img.shields.io/github/stars/Tamilupdates/String-Generator-Bot?style=social)](https://github.com/Tamilupdates/String-Generator-Bot/stargazers)
   [![Forks](https://img.shields.io/github/forks/Tamilupdates/String-Generator-Bot?style=social)](https://github.com/Tamilupdates/String-Generator-Bot/fork)
