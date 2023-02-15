@@ -1,3 +1,4 @@
+### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
 <p align="center">
     <a href="https://telegram.me/Nanthakps">
         <kbd>
@@ -13,9 +14,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/Tamilupdates?style=social&label=Followers)](https://github.com/Tamilupdates)
 
 ----
-### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
-[![Stars](https://img.shields.io/github/stars/Tamilupdates/String-Generator-Bot?style=social)](https://github.com/Tamilupdates/String-Generator-Bot/stargazers)
-  [![Forks](https://img.shields.io/github/forks/Tamilupdates/String-Generator-Bot?style=social)](https://github.com/Tamilupdates/String-Generator-Bot/fork)
 
 ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
 
