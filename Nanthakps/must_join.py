@@ -6,7 +6,7 @@ from pyrogram.errors import ChatAdminRequired, UserNotParticipant, ChatWriteForb
 
 
 @Client.on_message(filters.incoming & filters.private, group=-1)
-async def must_join_channel(bot: Client, msg: Message):
+async def join_updates_channel(bot: Client, msg: Message):
     if not UPDATES_CHANNEL:
         return
     try:
